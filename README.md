@@ -1,4 +1,12 @@
-# EPMath
+<h1 align="center">Welcome to EPMath 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-WIP-blue.svg?cacheSeconds=2592000"/>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
+  </a>
+
+</p>
+
 
 EPMath is a comprehensive C# library (WIP) designed to meet all your mathematical needs.
 It offers a wide range of algorithms that make performing complex mathematical calculations effortless.
@@ -7,12 +15,16 @@ The library is built with simplicity and efficiency in mind, making it easy to i
 
 With its well-documented API and contribution guidelines, EPMath is perfect for developers of all levels.
 
-So why wait? Empower your next project with the power of math - install EPMath today!"
+So why wait? Empower your next project with the power of math
 
 
-## Contribution Guidelines
-We welcome contributions to the development of the `EPMath` Library.
-Please follow the coding standards used in the existing code and the coding covention for C# and include appropriate tests with your changes.
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome!<br />Feel free to check the [issues page](https://github.com/pascuale2/EPMath/issues).
+ - Contributions must follow the [C# coding convention](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 
-## License
-The EPMath Library is released under the MIT License.
+## ⭐ Show your support
+
+Give a ⭐️ if this project helped you!
+
+
+
